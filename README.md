@@ -24,4 +24,4 @@ Para crear el gif que muestro a continuación utilize la herramienta de gif-anim
 Debe estar instalada la libreria de [open CV](http://www.magicandlove.com/blog/2018/11/22/opencv-4-0-0-java-built-and-cvimage-library/)
 
 ## Resultado.
-![](https://github.com/irunervey/CIU-Practica5/blob/master/gif.gif)
+![](https://github.com/irunervey/CIU-Practica6/blob/master/gif.gif)
