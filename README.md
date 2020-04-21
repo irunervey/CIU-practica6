@@ -19,7 +19,7 @@ Para esta práctica he realizado un pequeño juego en el cual se trata de elimin
 He utilizado la libreria [open CV](http://www.magicandlove.com/blog/2018/11/22/opencv-4-0-0-java-built-and-cvimage-library/)  abajo para identificar las caras que aparezcan en la imagen para despues comprobar si colisionan con la cara. He implementado un modo rebote en el cual las pelotas rebotan en la cara o caras de los jugadores.
 
 ## Herramientas utilizadas.
-Para crear el gif que muestro a continuación utilize la herramienta de gif-animation que puedes encontrar en este [enlace](https://github.com/extrapixel/gif-animation)..
+Para crear el gif que muestro a continuación utilize la herramienta de gif-animation que puedes encontrar en este [enlace](https://github.com/extrapixel/gif-animation).
 
 Debe estar instalada la libreria de [open CV](http://www.magicandlove.com/blog/2018/11/22/opencv-4-0-0-java-built-and-cvimage-library/)
 
